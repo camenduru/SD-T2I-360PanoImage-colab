@@ -11,6 +11,9 @@
 ## Main Repo
 https://github.com/ArcherFMY/SD-T2I-360PanoImage
 
+## Page
+https://www.modelscope.cn/models/damo/cv_diffusion_text-to-360panorama-image_generation/summary
+
 ## Output
 ![t1](https://github.com/camenduru/SD-T2I-360PanoImage-colab/assets/54370274/c011995d-521e-4867-ac2d-64c63803018e)
 ![5a4133f7-e6c8-453f-b530-0aff42097869](https://github.com/camenduru/SD-T2I-360PanoImage-colab/assets/54370274/ecff1641-b250-4674-8521-6f7d1618d15a)
