@@ -10,6 +10,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SD-T2I-360PanoImage-colab/blob/main/SD_T2I_360PanoImage_gradio_colab.ipynb) | SD_T2I_360PanoImage_gradio_colab
 
 ## Tutorial
+Saved image location `result.png`
+![Screenshot 2023-11-18 114735](https://github.com/camenduru/SD-T2I-360PanoImage-colab/assets/54370274/a6698740-605e-4fc8-8595-e10a477f623e)
+
 For enable upscaler (Colab Pro 😐)
 ![Screenshot 2023-11-18 102513](https://github.com/camenduru/SD-T2I-360PanoImage-colab/assets/54370274/d3b6707b-b019-4bd7-8237-2fcff0263a53)
 
